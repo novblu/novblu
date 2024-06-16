@@ -5,9 +5,7 @@
 - 🌱 Obecnie ucze się **REACT**
 - ⚡ Fun fact: czerwone pandy śpią nawet 17h dziennie! zupełnie jak ja!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<h3 align="left"><a href="https://kacpero.website/">Napisz do mnie!</a></h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
